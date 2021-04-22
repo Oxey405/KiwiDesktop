@@ -1,0 +1,22 @@
+{
+  "name": "kiwi-desktop",
+  "version": "0.0.1",
+  "description": "Kiwi Desktop is a electronjs powered desktop environnement for linux Raspberry Pi",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oxey405/KiwiDesktop.git"
+  },
+  "keywords": [
+    "KiwiDesktop"
+  ],
+  "author": "Oxey405",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Oxey405/KiwiDesktop/issues"
+  },
+  "homepage": "https://github.com/Oxey405/KiwiDesktop#readme"
+}
